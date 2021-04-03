@@ -204,3 +204,21 @@ mark.blue{
     top: 170px;
     opacity: 0.85;
 }
+
+.glaucoma img{
+    position: absolute;
+    width: 350px;
+    height: 250px;
+    left: 880px;
+    top: 200px;
+    opacity: 0.85;
+}
+
+.cataract img{
+    position: absolute;
+    width: 350px;
+    height: 250px;
+    left: 880px;
+    top: 550px;
+    opacity: 0.85;
+}
